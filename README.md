@@ -339,7 +339,7 @@ $ python load-price-quote.py \
 ![tabelas bigquery](https://manupljr.com.br/teste-eng-dados/img/tabelas_bigquery.png "Tabelas criadas no BigQuery")
 
 ### Relatório Data Studio
-Montei o relatórop com um totalizador de registros, a tabela com os dados, um gráfico pizza das ocorrências "Yes" e "No" do campo bracket_pricing e dois gráficos de barras, sendo um totalizando os custos e outro totalizando ocorrencias da dimensão tuble_assembly_id. Inclui um filtro por bracket_pricing e também por range de data que uriliza o campo quote_date. Por fim, editei para as cores verdes.
+Montei o relatório com um totalizador de registros, a tabela com os dados, um gráfico pizza das ocorrências "Yes" e "No" do campo bracket_pricing e dois gráficos de barras, sendo um totalizando os custos e outro totalizando ocorrencias da dimensão tuble_assembly_id. Inclui um filtro por bracket_pricing e também por range de data que utiliza o campo quote_date. Por fim, editei para as cores verdes.
 ![relatorio](https://manupljr.com.br/teste-eng-dados/img/relatorio.png "Relatório Data Studio")
 
 ### Modelagem conceitual dos Dados
